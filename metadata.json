@@ -1,0 +1,6 @@
+{
+  "name": "StreetSmart",
+  "description": "Smart cash reconciliation, daily income/expense tracking, unsold stock wastage monitor, and weather insights for street vendors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
